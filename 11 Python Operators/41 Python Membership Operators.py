@@ -12,8 +12,8 @@
 # Check if "banana" is present in a list:
 
 fruits = ["apple", "banana", "cherry"]
-print("banana" in fruits)
-print("mango" in fruits)
+print("banana" in fruits)   # Output: True  
+print("mango" in fruits)    # Output: False
 
 
 # Check if "pineapple" is NOT present in a list:
